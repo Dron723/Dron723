@@ -1,5 +1,5 @@
 # 💫 About Me:
-Always learning new things
+Junior fullstack developer
 
 
 # 💻 Tech Stack:
